@@ -5,7 +5,9 @@ A **Central Macatuba** é a infraestrutura digital oficial que atua como **hub o
 Seu objetivo é **integrar, padronizar e orquestrar** todos os serviços digitais municipais em uma arquitetura unificada, modular, escalável e orientada à segurança.
 
 🔗 https://centralmacatuba.eu.org
+
 🔗 https://centralmacatuba.qzz.io
+
 🔗 https://centralmacatuba.dpdns.org
 
 ---
